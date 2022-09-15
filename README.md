@@ -1,5 +1,5 @@
-Exemplos de funções em Python<br>
-Conhecimento obtido através do curso de Ciência de Dados da UniCarioca - Prof. Sérgio Monteiro
+<b>Exemplos de funções em Python<br>
+Conhecimento obtido através do curso de Ciência de Dados da UniCarioca - Prof. Sérgio Monteiro</b>
 
 ## Função que obtém o menor número de uma lista
 Os dados da lista são inseridos pelo usuário
