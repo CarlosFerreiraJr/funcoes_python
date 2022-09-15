@@ -3,7 +3,7 @@ Conhecimento obtido através do curso de Ciência de Dados da UniCarioca - Prof.
 
 ## Função que obtém o menor número de uma lista
 Observações:
-1. Os dados da lista são inseridos pelo usuário
+1. Os dados da lista são inseridos pelo usuário através da função <b>input</b>
 2. Em Python, a função, a estrutura de repetição (while ou for) e a estrutura condicional Se (if) <br>
    são finalizados pelo simples fato de estarem indentadas
 
