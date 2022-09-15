@@ -2,7 +2,10 @@
 Conhecimento obtido através do curso de Ciência de Dados da UniCarioca - Prof. Sérgio Monteiro</b>
 
 ## Função que obtém o menor número de uma lista
-Os dados da lista são inseridos pelo usuário
+Observações:
+1. Os dados da lista são inseridos pelo usuário
+2. Em Python, a função, a estrutura de repetição (while ou for) e a estrutura condicional Se (if) <br>
+   são finalizados pelo simples fato de estarem indentadas
 
 ```
 def encontrar_minimo(lista):
