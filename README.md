@@ -1,4 +1,4 @@
-Exemplos de funções em Python
+Exemplos de funções em Python\n
 Conhecimento obtido através do curso de Ciência de Dados da UniCarioca - Prof. Sérgio Monteiro
 
 ## Função que obtém o menor número de uma lista
