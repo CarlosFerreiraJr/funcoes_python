@@ -2,7 +2,8 @@
 
 ## Função que obtém o menor número de uma lista
 Os dados da lista são inseridos pelo usuário
-``
+
+```
 def encontrar_minimo(lista):
     minimo = int(lista[0])
     for elem in lista:
@@ -24,4 +25,4 @@ lista = s.split(',')
 print(lista)
 menor = encontrar_minimo(lista)
 print("O menor elemento da lista é:[{}]".format(menor))
-``
+```
